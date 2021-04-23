@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="merda1" size="1.000000 1.002506" />
+    <ImageTarget name="base_robot" size="1.000000 1.000000" />
+    <ImageTarget name="qr_ur9" size="1.000000 1.000000" />
+    <ImageTarget name="qr_ur6" size="1.000000 1.000000" />
+    <ImageTarget name="qr_ur7" size="1.000000 1.000000" />
+    <ImageTarget name="qr_ur4" size="1.000000 1.000000" />
+    <ImageTarget name="qr_ur3" size="1.000000 1.000000" />
+    <ImageTarget name="qr_ur1" size="1.000000 1.000000" />
+    <ImageTarget name="QrUr2" size="0.500000 0.500000" />
+    <ImageTarget name="QrUR1" size="1.000000 1.000000" />
+    <ImageTarget name="logo_negre_upc2" size="0.500000 0.500000" />
+    <ImageTarget name="Carta" size="10.000000 7.538760" />
+  </Tracking>
+</QCARConfig>
