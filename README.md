@@ -1,5 +1,6 @@
 # UR-App
 On April 11, 2019, the Hackathon of Universal Robots #Hackthecobot was held. This application corresponds to one of the 3 challenges that were raised. The challenge was to get implementing an enhanced reality application that was useful for operators using the robot. The idea is that the APP can offer information such as the status of the motors, temperature of the robot ... in a simple and intuitive way using this new technology.
+In addition, voice recognition was also implemented so that the robot could obey orders from an authenticated operator in the system.
 
 
 
