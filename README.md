@@ -19,7 +19,7 @@ To run the application you just have to open the project with Unity and execute 
 
 To see the full video, go to [Full Video](https://github.com/MarcDV1999/UR-App/Videos/)
 
-<img src="Videos/#HackTheCobot, the Universal Robots Hackathon - Barcelona April 11th 2019.gif" alt="AR App" style="zoom:150%;" />
+<img src="Videos/#HackTheCobot-Universal-Robots-Hackathon.gif" alt="AR App" style="zoom:150%;" />
 
 
 
