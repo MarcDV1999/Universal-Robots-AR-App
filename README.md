@@ -1,5 +1,5 @@
 # UR-App
-Developed and presented AR application to provide superimposed real-time information on the state of the robot with Unity.
+On April 11, 2019, the Hackathon of Universal Robots #Hackthecobot was held. This application corresponds to one of the 3 challenges that were raised. The challenge was to get implementing an enhanced reality application that was useful for operators using the robot. The idea is that the APP can offer information such as the status of the motors, temperature of the robot ... in a simple and intuitive way using this new technology.
 
 
 
@@ -29,4 +29,4 @@ To see the full video, go to [Full Video](https://github.com/MarcDV1999/UR-App/b
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/MarcDV1999/UR-App/blob/main/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/MarcDV1999/UR-App/blob/master/LICENSE) file for details
