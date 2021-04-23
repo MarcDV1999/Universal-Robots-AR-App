@@ -17,11 +17,9 @@ To run the application you just have to open the project with Unity and execute 
 
 ## Surgery
 
-To see the full video, go to [Full Video](https://github.com/MarcDV1999/UR-App/Videos/)
+To see the full video, go to [Full Video](https://github.com/MarcDV1999/UR-App/Videos/#HackTheCobot-Universal-Robots-Hackathon.mp4)
 
-<img src="Videos/#HackTheCobot-Universal-Robots-Hackathon.gif" alt="AR App" style="zoom:150%;" />
-
-
+![#HackTheCobot-Universal-Robots-Hackathon](Videos/#HackTheCobot-Universal-Robots-Hackathon.gif)
 
 ## Author
 
